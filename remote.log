@@ -1,1 +1,1 @@
-d6f404f9-9a45-42fa-9211-bbd923477632 autoenable=true bucket=test chunk=1GiB datacenter=US encryption=none exporttree=no host=minio.ikim.uk-essen.de name=aws-s3 port=9002 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1678358748.862166821s
+d6f404f9-9a45-42fa-9211-bbd923477632 autoenable=true bucket=test chunk=1GiB datacenter=US encryption=none exporttree=no host=minio.ikim.uk-essen.de name=aws-s3 port=9002 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1678361914.765211581s
